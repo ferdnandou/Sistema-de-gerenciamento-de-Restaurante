@@ -1,6 +1,3 @@
-Claro! Aqui está o enunciado em Markdown para o projeto:
-
-```markdown
 # Projeto: Sistema de Gerenciamento de Restaurante
 
 ## Descrição
